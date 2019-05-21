@@ -1,0 +1,36 @@
+body {
+    background:#659DBD;
+    color: black;
+    
+}
+
+.page-header {
+    background-color: #8D8741;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+    font-family: 'Playfair Display', serif;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #FFFFFF;
+    font-size: 36pt;
+    text-decoration: none;
+}
+
+.page-header p {
+    color:white;
+}
+
+.page-header a {
+font-size: 50px;
+color: #FFFFFF;
+}
+
+.form-group label {
+    color: white;
+}
+
+footer{
+  height: 20px;  
+}
+
